@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <Authors>Marco Aurélio</Authors>
     <Copyright>Marco Aurélio IT (c) 2019</Copyright>
-    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionPrefix>1.1.0</VersionPrefix>
     <PackageProjectUrl>https://github.com/marcoaurelioit/marco-exceptions-core</PackageProjectUrl>
   </PropertyGroup>
 
