@@ -15,8 +15,8 @@ variables:
   buildConfiguration: 'Release'
 
   ##Exceptions
-  Pack1Version: '1.1.0'
-  Pack1PushToNuget: False
+  Pack1Version: '1.2.0'
+  Pack1PushToNuget: True
 
 steps:
 # Install NuGet Tool
