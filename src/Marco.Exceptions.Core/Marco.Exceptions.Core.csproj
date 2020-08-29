@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RuntimeFrameworkVersion>3.0.0</RuntimeFrameworkVersion>
     <Authors>Marco Aurélio</Authors>
     <Copyright>Marco Aurélio IT (c) 2020</Copyright>
     <VersionPrefix>1.3.0</VersionPrefix>
