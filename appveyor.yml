@@ -12,7 +12,6 @@ before_build:
 
     dotnet build
 build:
-  publish_nuget: true
   verbosity: minimal
 artifacts:
 - path: '**\*.nupkg'
