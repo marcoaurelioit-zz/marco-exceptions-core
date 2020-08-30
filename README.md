@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/yqi3x0670dfc0c96?svg=true)](https://ci.appveyor.com/project/maureliobrasil/marco-exceptions-core)
+![.NET Core](https://github.com/marcoaurelioit/marco-exceptions-core/workflows/.NET%20Core/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/marcoaurelioit/marco-exceptions-core/badge)](https://www.codefactor.io/repository/github/marcoaurelioit/marco-exceptions-core)
 [![GitHub release](https://img.shields.io/github/release/marcoaurelioit/marco-exceptions-core.svg)](https://github.com/marcoaurelioit/marco-exceptions-core/releases)
 
