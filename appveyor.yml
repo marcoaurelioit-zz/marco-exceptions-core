@@ -16,5 +16,3 @@ deploy:
 - provider: NuGet
   api_key:
     secure: RCtjjLPpGMVjt4mD8LurHJ9fhXCmpZwOH6HKXTh34VoN2sjJUvX56WrHzv8OA6MG
-  username:
-    secure: bYlevw9glkB8gEUc3o9Trg==
