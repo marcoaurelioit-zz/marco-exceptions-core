@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>Marco Aurélio</Authors>
-    <Copyright>Marco Aurélio IT (c) 2019</Copyright>
-    <VersionPrefix>1.2.0</VersionPrefix>
+    <Authors>Marco Aurélio</Authors>  
+    <AssemblyName>Marco.Exceptions.Core</AssemblyName>
+    <RootNamespace>Marco.Exceptions.Core</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>   
     <PackageProjectUrl>https://github.com/marcoaurelioit/marco-exceptions-core</PackageProjectUrl>
+    <PackageId>Marco.Exceptions.Core</PackageId>  
+    <RepositoryType>Public</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.2.1</Version>
   </PropertyGroup>
 
 </Project>
