@@ -11,7 +11,7 @@
     <PackageId>Marco.Exceptions.Core</PackageId>  
     <RepositoryType>Public</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>${version}</Version>
+    <Version>1.3.29</Version>
   </PropertyGroup>
 
 </Project>
