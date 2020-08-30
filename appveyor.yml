@@ -1,6 +1,7 @@
 version: 1.3.{build}
 pull_requests:
   do_not_increment_build_number: true
+configuration: Release
 nuget:
   account_feed: true
   project_feed: true
@@ -12,7 +13,6 @@ before_build:
     dotnet build
 build:
   publish_nuget: true
-  include_nuget_references: true
   verbosity: minimal
 artifacts:
 - path: '**\*.nupkg'
