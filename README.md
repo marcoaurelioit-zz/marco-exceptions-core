@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/marcoaurelioit/marco-exceptions-core/_apis/build/status/marcoaurelioit.marco-exceptions-core)](https://dev.azure.com/marcoaurelioit/marco-exceptions-core/_build/latest?definitionId=1)
+[![Build Status](https://ci.appveyor.com/api/projects/status/yqi3x0670dfc0c96?svg=true)]
 [![CodeFactor](https://www.codefactor.io/repository/github/marcoaurelioit/marco-exceptions-core/badge)](https://www.codefactor.io/repository/github/marcoaurelioit/marco-exceptions-core)
 [![GitHub release](https://img.shields.io/github/release/marcoaurelioit/marco-exceptions-core.svg)](https://github.com/marcoaurelioit/marco-exceptions-core/releases)
 
