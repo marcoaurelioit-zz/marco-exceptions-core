@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <Authors>Marco Aurélio</Authors>  
     <AssemblyName>Marco.Exceptions.Core</AssemblyName>
     <RootNamespace>Marco.Exceptions.Core</RootNamespace>
@@ -11,7 +11,7 @@
     <PackageId>Marco.Exceptions.Core</PackageId>  
     <RepositoryType>Public</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.2.2</Version>
+    <Version>1.2.3</Version>
   </PropertyGroup>
 
 </Project>
